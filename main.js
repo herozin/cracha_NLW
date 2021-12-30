@@ -1,9 +1,11 @@
 const linksSocialMedia = {
   github: 'herozin',
+  /*
   youtube: 'hardbades',
   facebook: 'philipirochaguedess',
   instagram: 'philipi_guedes',
   twitter: 'DerPhilps'
+  */
 }
 
 function changeSocialMediaLinks() {
